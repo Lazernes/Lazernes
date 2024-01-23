@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Lazernes&fontSize=90)
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### Tech Stack
+<img src="https://img.shields.io/badge/#00599C?style=for-the-badge&logo=c++&logoColor=black">
 
 <!--
 **Lazernes/Lazernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
