@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Lazernes&fontSize=90)
 
 <!-- ### Hi there 👋 -->
-<div style="display:flex; flex-direction:row;">
+  
 [![Lazernes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazernes&include_all_commits=true&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsauddn1)](https://solved.ac/dbsauddn1/)
-</div>
+
 
 ### Platforms & Languages
 <div style="display:flex; flex-direction:row;">
@@ -18,9 +18,11 @@
 </div>
 
 ### Tools
+<div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=Intellij%20IDEA&logoColor=white">
+</div>
 
 <!--
 **Lazernes/Lazernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
