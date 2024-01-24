@@ -2,9 +2,12 @@
 
 <!-- ### Hi there 👋 -->
 ### Tech Stack
+<div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB">
-
+<img src="https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/CSS3-#E34F26?style=for-the-badge&logo=React&logoColor=black">
+</div>
 
 <!--
 **Lazernes/Lazernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
