@@ -3,7 +3,7 @@
 <!-- ### Hi there 👋 -->
 ### Tech Stack
 <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB">
 
 <!--
 **Lazernes/Lazernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
