@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Lazernes&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Lazernes&fontSize=90)
 
 <!-- ### Hi there 👋 -->
 ### Tech Stack
 <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB">
+
 
 <!--
 **Lazernes/Lazernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
