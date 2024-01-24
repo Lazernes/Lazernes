@@ -3,6 +3,8 @@
 <!-- ### Hi there 👋 -->
 [![Lazernes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazernes&include_all_commits=true&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsauddn1)](https://solved.ac/dbsauddn1/)
+
 ### Tech Stack
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
