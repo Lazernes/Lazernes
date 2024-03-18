@@ -2,7 +2,7 @@
 
 <!-- ### Hi there 👋 -->
   
-[![Lazernes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazernes&include_all_commits=true&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Lazernes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazernes&include_all_commits=true&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsauddn1)](https://solved.ac/dbsauddn1/)
 
 
