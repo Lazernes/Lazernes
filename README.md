@@ -36,6 +36,8 @@
   <!-- Figma -->
 </div>
 
+## 🎉수상경력
+- 2024 기계•시스템디자인공학과 졸업논문 발표회 대상
 <!--
 **Lazernes/Lazernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
